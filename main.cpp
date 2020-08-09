@@ -6,7 +6,7 @@ void arch_prueba ();
 void arch_lectura ();
 using namespace std;
 
-
+//Piramide, el usuario asigna la cantidad de * y _ estan en el triangulo 
 int main()
 {
    
